@@ -10,3 +10,12 @@ __pycache__/
 
 # OS files
 .DS_Store
+
+# Large files
+data/raw/flights.csv
+data/raw/flight-delays.zip
+data/raw/OnTime_2023.zip
+data/raw/big_files/
+
+# Archives
+*.tar.gz
