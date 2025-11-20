@@ -93,14 +93,16 @@ TBD
 
 
 ## Tools Used
-- **Power BI Desktop:** Data cleaning and preprocessing (pandas, matplotlib, re)
+- **Power BI Desktop** 
   - Data modeling
   - ETL through Power Query
   - DAX calculations
   - Dashboard layout
-- **CSV data (BTS-based):** Flight-level and aggregated subsets
-- **Python / DuckDB (future steps):** Planned for combining 12 monthly BTS datasets into a single analytical dataset
-- **GitHub:** Portfolio hosting  
+- **CSV data (BTS-based)**
+  - Flight-level and aggregated subsets
+- **Python / DuckDB**
+- **GitHub**
+  - Portfolio hosting  
 
 
 ## Outcome
