@@ -105,8 +105,10 @@ TBD
 
 ## Outcome
 In Progress 
+
 ## Author
-Michael Manning
-Data Analyst | SQL • Python • Power BI • Data Visualization
-GitHub: github.com/mcmanningmsc
-LinkedIn: linkedin.com/in/michael-manning-5a8380385
+**Michael Manning**  
+Data Analyst | SQL • Python • Power BI • Data Visualization  
+
+**GitHub:** [https://github.com/mcmanningmsc](https://github.com/mcmanningmsc)  
+**LinkedIn:** [https://linkedin.com/in/michael-manning-5a8380385](https://linkedin.com/in/michael-manning-5a8380385)
